@@ -28,3 +28,12 @@ E:\utn\2do cuatri\tps\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debu
 E:\utn\2do cuatri\tps\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
 E:\utn\2do cuatri\tps\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
 E:\utn\2do cuatri\tps\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\utn\cuatri2\tp1\git\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\utn\cuatri2\tp1\git\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\utn\cuatri2\tp1\git\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\utn\cuatri2\tp1\git\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\utn\cuatri2\tp1\git\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\utn\cuatri2\tp1\git\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\utn\cuatri2\tp1\git\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\utn\cuatri2\tp1\git\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\utn\cuatri2\tp1\git\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
