@@ -1,0 +1,21 @@
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12_Library\obj\Debug\Clase_12_Library.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_12_Library\obj\Debug\Clase_12_Library.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_12_Library\bin\Debug\Clase_12_Library.dll
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_12_Library\bin\Debug\Clase_12_Library.pdb
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_12_Library\obj\Debug\Clase_12_Library.dll
+D:\Mis Documentos\LectorRSS\.gradle\2.2.1\taskArtifacts\Clases\Clase_1\Clase_12_Library\obj\Debug\Clase_12_Library.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12_Library\bin\Debug\Clase_12_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12_Library\bin\Debug\Clase_12_Library.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12_Library\obj\Debug\Clase_12_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Clase_1\Clase_12_Library\obj\Debug\Clase_12_Library.pdb
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12_Library\obj\Debug\Clase_12_Library.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12_Library\obj\Debug\Clase_12_Library.dll
+D:\Federico\VB .Net\Visual C#\utn\Clases\Final_Clase_12\Clase_12_Library\obj\Debug\Clase_12_Library.pdb
+C:\Users\alumno\Desktop\Alumno_Clase_12\Clase_12_Library\obj\Debug\Clase_12_Library.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Alumno_Clase_12\Clase_12_Library\obj\Debug\Clase_12_Library.dll
+C:\Users\alumno\Desktop\Alumno_Clase_12\Clase_12_Library\obj\Debug\Clase_12_Library.pdb
+G:\utn\2do cuatri\tps\tp2\Alumno_Clase_12\Clase_12_Library\obj\Debug\Clase_12_Library.csprojResolveAssemblyReference.cache
+G:\utn\2do cuatri\tps\tp2\Alumno_Clase_12\Clase_12_Library\obj\Debug\Clase_12_Library.dll
+G:\utn\2do cuatri\tps\tp2\Alumno_Clase_12\Clase_12_Library\obj\Debug\Clase_12_Library.pdb
+G:\utn\2do cuatri\tps\tp2\Alumno_Clase_12\Clase_12_Library\bin\Debug\Clase_12_Library.dll
+G:\utn\2do cuatri\tps\tp2\Alumno_Clase_12\Clase_12_Library\bin\Debug\Clase_12_Library.pdb
