@@ -1,0 +1,11 @@
+C:\UTN\cuatri2\tp3\ClassLibrary1\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.dll
+C:\UTN\cuatri2\tp3\ClassLibrary1\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.pdb
+C:\UTN\cuatri2\tp3\ClassLibrary1\EntidadesInstanciables\bin\Debug\Archivos.dll
+C:\UTN\cuatri2\tp3\ClassLibrary1\EntidadesInstanciables\bin\Debug\ClassLibrary1.dll
+C:\UTN\cuatri2\tp3\ClassLibrary1\EntidadesInstanciables\bin\Debug\Excepciones.dll
+C:\UTN\cuatri2\tp3\ClassLibrary1\EntidadesInstanciables\bin\Debug\Archivos.pdb
+C:\UTN\cuatri2\tp3\ClassLibrary1\EntidadesInstanciables\bin\Debug\ClassLibrary1.pdb
+C:\UTN\cuatri2\tp3\ClassLibrary1\EntidadesInstanciables\bin\Debug\Excepciones.pdb
+C:\UTN\cuatri2\tp3\ClassLibrary1\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojResolveAssemblyReference.cache
+C:\UTN\cuatri2\tp3\ClassLibrary1\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.dll
+C:\UTN\cuatri2\tp3\ClassLibrary1\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb

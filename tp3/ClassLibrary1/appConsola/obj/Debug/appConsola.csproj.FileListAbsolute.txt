@@ -1,0 +1,14 @@
+C:\UTN\cuatri2\tp3\ClassLibrary1\appConsola\bin\Debug\appConsola.exe.config
+C:\UTN\cuatri2\tp3\ClassLibrary1\appConsola\bin\Debug\appConsola.exe
+C:\UTN\cuatri2\tp3\ClassLibrary1\appConsola\bin\Debug\appConsola.pdb
+C:\UTN\cuatri2\tp3\ClassLibrary1\appConsola\bin\Debug\Archivos.dll
+C:\UTN\cuatri2\tp3\ClassLibrary1\appConsola\bin\Debug\ClassLibrary1.dll
+C:\UTN\cuatri2\tp3\ClassLibrary1\appConsola\bin\Debug\EntidadesInstanciables.dll
+C:\UTN\cuatri2\tp3\ClassLibrary1\appConsola\bin\Debug\Excepciones.dll
+C:\UTN\cuatri2\tp3\ClassLibrary1\appConsola\bin\Debug\Archivos.pdb
+C:\UTN\cuatri2\tp3\ClassLibrary1\appConsola\bin\Debug\ClassLibrary1.pdb
+C:\UTN\cuatri2\tp3\ClassLibrary1\appConsola\bin\Debug\EntidadesInstanciables.pdb
+C:\UTN\cuatri2\tp3\ClassLibrary1\appConsola\bin\Debug\Excepciones.pdb
+C:\UTN\cuatri2\tp3\ClassLibrary1\appConsola\obj\Debug\appConsola.csprojResolveAssemblyReference.cache
+C:\UTN\cuatri2\tp3\ClassLibrary1\appConsola\obj\Debug\appConsola.exe
+C:\UTN\cuatri2\tp3\ClassLibrary1\appConsola\obj\Debug\appConsola.pdb

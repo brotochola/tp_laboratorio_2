@@ -1,0 +1,5 @@
+C:\UTN\cuatri2\tp3\ClassLibrary1\Excepciones\bin\Debug\Excepciones.dll
+C:\UTN\cuatri2\tp3\ClassLibrary1\Excepciones\bin\Debug\Excepciones.pdb
+C:\UTN\cuatri2\tp3\ClassLibrary1\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+C:\UTN\cuatri2\tp3\ClassLibrary1\Excepciones\obj\Debug\Excepciones.dll
+C:\UTN\cuatri2\tp3\ClassLibrary1\Excepciones\obj\Debug\Excepciones.pdb

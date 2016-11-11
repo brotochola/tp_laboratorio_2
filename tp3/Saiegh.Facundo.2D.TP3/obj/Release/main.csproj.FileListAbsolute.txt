@@ -1,0 +1,2 @@
+C:\UTN\cuatri2\tp3\Saiegh.Facundo.2D.TP3\bin\Release\main.exe.config
+C:\UTN\cuatri2\tp3\Saiegh.Facundo.2D.TP3\obj\Release\main.csprojResolveAssemblyReference.cache

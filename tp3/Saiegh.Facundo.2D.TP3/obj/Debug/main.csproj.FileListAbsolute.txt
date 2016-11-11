@@ -1,0 +1,14 @@
+C:\UTN\cuatri2\tp3\Saiegh.Facundo.2D.TP3\bin\Debug\main.exe.config
+C:\UTN\cuatri2\tp3\Saiegh.Facundo.2D.TP3\bin\Debug\main.exe
+C:\UTN\cuatri2\tp3\Saiegh.Facundo.2D.TP3\bin\Debug\main.pdb
+C:\UTN\cuatri2\tp3\Saiegh.Facundo.2D.TP3\bin\Debug\Archivos.dll
+C:\UTN\cuatri2\tp3\Saiegh.Facundo.2D.TP3\bin\Debug\ClassLibrary1.dll
+C:\UTN\cuatri2\tp3\Saiegh.Facundo.2D.TP3\bin\Debug\EntidadesInstanciables.dll
+C:\UTN\cuatri2\tp3\Saiegh.Facundo.2D.TP3\bin\Debug\Excepciones.dll
+C:\UTN\cuatri2\tp3\Saiegh.Facundo.2D.TP3\bin\Debug\Archivos.pdb
+C:\UTN\cuatri2\tp3\Saiegh.Facundo.2D.TP3\bin\Debug\ClassLibrary1.pdb
+C:\UTN\cuatri2\tp3\Saiegh.Facundo.2D.TP3\bin\Debug\EntidadesInstanciables.pdb
+C:\UTN\cuatri2\tp3\Saiegh.Facundo.2D.TP3\bin\Debug\Excepciones.pdb
+C:\UTN\cuatri2\tp3\Saiegh.Facundo.2D.TP3\obj\Debug\main.csprojResolveAssemblyReference.cache
+C:\UTN\cuatri2\tp3\Saiegh.Facundo.2D.TP3\obj\Debug\main.exe
+C:\UTN\cuatri2\tp3\Saiegh.Facundo.2D.TP3\obj\Debug\main.pdb

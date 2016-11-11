@@ -1,0 +1,7 @@
+C:\UTN\cuatri2\tp3\ClassLibrary1\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\UTN\cuatri2\tp3\ClassLibrary1\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\UTN\cuatri2\tp3\ClassLibrary1\ClassLibrary1\bin\Release\Excepciones.dll
+C:\UTN\cuatri2\tp3\ClassLibrary1\ClassLibrary1\bin\Release\Excepciones.pdb
+C:\UTN\cuatri2\tp3\ClassLibrary1\ClassLibrary1\obj\Release\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\UTN\cuatri2\tp3\ClassLibrary1\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\UTN\cuatri2\tp3\ClassLibrary1\ClassLibrary1\obj\Release\ClassLibrary1.pdb

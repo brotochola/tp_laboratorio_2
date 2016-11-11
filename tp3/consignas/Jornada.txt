@@ -1,0 +1,133 @@
+CLASE DE Natacion POR NOMBRE COMPLETO: Juarez, Roberto
+NACIONALIDAD: Argentino
+
+CARNET NÚMERO: 2
+CLASES DEL DÍA:
+Natacion
+Pilates
+
+ALUMNOS:
+NOMBRE COMPLETO: Suarez, Joaquin
+NACIONALIDAD: Extranjero
+
+CARNET NÚMERO: 7
+
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASES DE Natacion
+<------------------------------------------------>
+
+CLASE DE Natacion POR NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+
+CARNET NÚMERO: 1
+CLASES DEL DÍA:
+Pilates
+Natacion
+
+ALUMNOS:
+NOMBRE COMPLETO: Suarez, Joaquin
+NACIONALIDAD: Extranjero
+
+CARNET NÚMERO: 7
+
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASES DE Natacion
+<------------------------------------------------>
+
+CLASE DE Pilates POR NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+
+CARNET NÚMERO: 1
+CLASES DEL DÍA:
+Pilates
+Pilates
+
+ALUMNOS:
+NOMBRE COMPLETO: Hernandez, Miguel
+NACIONALIDAD: Extranjero
+
+CARNET NÚMERO: 4
+
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASES DE Pilates
+NOMBRE COMPLETO: Smith, Rodrigo
+NACIONALIDAD: Argentino
+
+CARNET NÚMERO: 8
+
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASES DE Pilates
+<------------------------------------------------>
+
+CLASE DE Natacion POR NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+
+CARNET NÚMERO: 1
+CLASES DEL DÍA:
+Natacion
+Natacion
+
+ALUMNOS:
+NOMBRE COMPLETO: Suarez, Joaquin
+NACIONALIDAD: Extranjero
+
+CARNET NÚMERO: 7
+
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASES DE Natacion
+<------------------------------------------------>
+
+CLASE DE Natacion POR NOMBRE COMPLETO: Juarez, Roberto
+NACIONALIDAD: Argentino
+
+CARNET NÚMERO: 2
+CLASES DEL DÍA:
+Natacion
+Natacion
+
+ALUMNOS:
+NOMBRE COMPLETO: Suarez, Joaquin
+NACIONALIDAD: Extranjero
+
+CARNET NÚMERO: 7
+
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASES DE Natacion
+<------------------------------------------------>
+
+CLASE DE Natacion POR NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+
+CARNET NÚMERO: 1
+CLASES DEL DÍA:
+Natacion
+Pilates
+
+ALUMNOS:
+NOMBRE COMPLETO: Suarez, Joaquin
+NACIONALIDAD: Extranjero
+
+CARNET NÚMERO: 7
+
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASES DE Natacion
+<------------------------------------------------>
+
+CLASE DE Natacion POR NOMBRE COMPLETO: Lopez, Juan
+NACIONALIDAD: Argentino
+
+CARNET NÚMERO: 1
+CLASES DEL DÍA:
+Natacion
+Pilates
+
+ALUMNOS:
+NOMBRE COMPLETO: Suarez, Joaquin
+NACIONALIDAD: Extranjero
+
+CARNET NÚMERO: 7
+
+ESTADO DE CUENTA: Cuota al día
+TOMA CLASES DE Natacion
+<------------------------------------------------>
+
